@@ -72,7 +72,7 @@ A digital operations platform for bottled-gas businesses, connecting customers, 
 
 We begin with the real operating workflow, clarify data and responsibility boundaries, and then develop the product in verifiable increments.
 
-**Discovery → Solution Design → Development → Testing & Launch → Training & Handover → Ongoing Support**
+**Workflow Research → Product Definition → Architecture → Incremental Development → Validation & Release → Adoption → Continuous Iteration**
 
 ## Cloud Platform Direction
 
